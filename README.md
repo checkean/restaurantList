@@ -1,4 +1,4 @@
-# AC FOODIE
+# RESTAURANTLIST
 一個用 Express 所建立簡單的餐廳清單網頁
 ---
 ## 功能介紹
